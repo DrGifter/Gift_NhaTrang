@@ -2,11 +2,8 @@
 
 :root {
     --primary-color: #2D6A4F;
-    /* Deep Forest Green */
     --secondary-color: #1A759F;
-    /* Strong Azure */
     --accent-color: #D4A373;
-    /* Sophisticated Sand */
     --gradient: linear-gradient(135deg, #17aa21, #27e5e8);
     --dark-color: #1B1B1B;
     --light-color: #F8F9FA;
@@ -47,7 +44,6 @@ h3,
     font-style: italic;
 }
 
-/* Scroll Behavior */
 html {
     scroll-behavior: smooth;
 }
